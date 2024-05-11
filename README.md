@@ -29,10 +29,13 @@ The choice between the two would depends on the specific requirements which incl
 EfficientNetB0 model performed the best and has the ability to accurately detect and classify brain tumors with 93% accuracy.
 
 EfficientNetB0 model performance summary below
+![EfficientNet01](./result/Classification_Report_EfficientNet01.png)
+
 (./result/Classification_Report_EfficientNet01.png)
 
 ResNet model performance summary below
 (./result/Classification_Report_ResNet.png)
+![ResNet101](./result/Classification_Report_ResNet.png)
 
 We can see some qualitative examples of the correct predictions made by the model that gives us insights into the model's behavior and potential areas for improvement.
 
